@@ -1,0 +1,11 @@
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\bin\Debug\KisiselBilgiler.exe.config
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\bin\Debug\KisiselBilgiler.exe
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\bin\Debug\KisiselBilgiler.pdb
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.csproj.AssemblyReference.cache
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.Form1.resources
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.Properties.Resources.resources
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.csproj.GenerateResource.cache
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.csproj.CoreCompileInputs.cache
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.exe
+C:\Users\Red_Beard\Documents\GitHub\KisiselBilgiler\KisiselBilgiler\obj\Debug\KisiselBilgiler.pdb
