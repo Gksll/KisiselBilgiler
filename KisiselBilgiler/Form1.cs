@@ -161,12 +161,14 @@ namespace KisiselBilgiler
             {
                 if (item is TextBox || item is ComboBox)
                 {
+                    
                     if (item.Text == "" || item.Text == "Seçiniz:" || item.Text == "Şehir Seçiniz")
                     {
                         ErrorProvider errorProvider1 = new ErrorProvider();
                         errorProvider1.SetError(item, "Bu alan boş bırakılamaz");
                         Bos_Alan = true;
                     }
+                   
                     
                 }
             }
@@ -189,6 +191,7 @@ namespace KisiselBilgiler
             else
             {
                 MessageBox.Show("Alanları doldurun!");
+                Bos_Alan = false;
             }
            
 
